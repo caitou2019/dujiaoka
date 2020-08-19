@@ -1,7 +1,7 @@
 /*
  Navicat MySQL Data Transfer
 
- Source Server         : laradock_mysql
+ Source Server         : laradock_mys
  Source Server Type    : MySQL
  Source Server Version : 50729
  Source Host           : 127.0.0.1:3306
